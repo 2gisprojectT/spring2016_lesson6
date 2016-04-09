@@ -20,6 +20,9 @@
 - Придумывать максимально говорящие и полные названия для секций и тест-кейсов
 - В каждой секции в поле Desctiption пояснить, какие методики или идеи\мысли использовались для генерации этой группы тест-кейсов
 
+Ссылка на тестовый набор:
+https://spring2016projectt.testrail.net/index.php?/suites/view/3&group_by=cases:section_id&group_order=asc
+
 ##Срок сдачи: 15:00 10 апреля
 
 ###Утилита для pairwise http://www.satisfice.com/tools.shtml AllPairs
