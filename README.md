@@ -1,3 +1,8 @@
+- 2gis.ru
+- Функционал авторизации
+
+https://spring2016projectt.testrail.net/index.php?/suites/view/11&group_by=cases:section_id&group_order=asc
+
 ##Задание
 
 1. На вашем сайте выбрать какой-нибудь функционал
