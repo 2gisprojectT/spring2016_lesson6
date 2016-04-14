@@ -5,7 +5,7 @@
 2. Тесты занесены под учетной записью nbu421_1@mail.ru
 
 3. Ссылка на тесты в ТестРейл: https://spring2016projectt.testrail.net/index.php?/suites/view/10&group_by=cases:section_id&group_id=51&group_order=asc
-
+4. Сссылка на Mind Map выбранного функционала: http://www.xmind.net/m/qtAP
 
 ##Задание
 
