@@ -22,4 +22,6 @@
 
 ##Срок сдачи: 15:00 10 апреля
 
+##https://spring2016projectt.testrail.net/index.php?/suites/view/13&group_by=cases:section_id&group_order=asc
+
 ###Утилита для pairwise http://www.satisfice.com/tools.shtml AllPairs
