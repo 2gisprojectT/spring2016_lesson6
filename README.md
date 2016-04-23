@@ -21,6 +21,6 @@
 - В каждой секции в поле Desctiption пояснить, какие методики или идеи\мысли использовались для генерации этой группы тест-кейсов
 
 ##Ссылка на выполненное ДЗ
-##https://spring2016projectt.testrail.net/index.php?/suites/view/14&group_by=cases:section_id&group_id=59&group_order=asc
+##https://spring2016projectt.testrail.net/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc
 
 ###Утилита для pairwise http://www.satisfice.com/tools.shtml AllPairs
