@@ -1,3 +1,6 @@
+Ссылка на выполненое задание : 
+  https://spring2016projectt.testrail.net/index.php?/suites/view/9&group_by=cases:section_id&group_order=desc
+
 ##Задание
 
 1. На вашем сайте выбрать какой-нибудь функционал
